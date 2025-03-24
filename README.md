@@ -2,6 +2,8 @@
 
 > **Supercharge Your Web Development Workflow**
 
+🚧 **This extension is currently in development. There is no test version available yet.** 🚧
+
 ![DevFlux Banner](https://via.placeholder.com/1200x400?text=DevFlux+-+All-in-One+Dev+Tool)
 
 ## 🚀 Concept
@@ -53,4 +55,3 @@ We welcome all ideas, bug reports, and improvement suggestions! You can:
 ---
 
 ⭐️ If you like DevFlux, don’t forget to **star** the GitHub repository!
-
