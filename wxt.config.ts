@@ -11,14 +11,14 @@ export default defineConfig({
     openDevtools: true,
   },
   manifest: {
-    name: "W4LL Extension",
-    description: "W4LL Extension",
+    name: "DevFlux Extension",
+    description: "DevFlux Extension",
     host_permissions: ["https://*/*", "http://*/*", "https://*/", "http://*/"],
     permissions: ["identity", "storage", "activeTab", "identity", "tabs", "unlimitedStorage", "scripting", "webRequest", "webNavigation", "clipboardRead"],
     icons: {
-      "16": "icon/16.png",
-      "48": "icon/48.png",
-      "128": "icon/128.png"
+      "16": "icons/icon.png",
+      "48": "icons/icon.png",
+      "128": "icons/icon.png"
     },
     web_accessible_resources: [
       {
